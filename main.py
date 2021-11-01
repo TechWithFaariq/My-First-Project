@@ -53,7 +53,7 @@ for i in range(len(adj)):
 fight = input(f"& a verb: ")
 
 # Init Story
-madlibsStory = (f"{theMatrix} is a {system}, {neo}.That {system} is our {enemy}. " +
+madlibsStory = (f"{theMatrix} is a {system}, {neo}. That {system} is our {enemy}. " +
 f"But when you're {inside}, you look around, what do you see? " +
 f"{profession[0]}, {profession[1]}, {profession[2]}, {profession[3]}. The very minds " +
 f"of the people we are trying to {save}. But until we do, " +
